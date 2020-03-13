@@ -4,7 +4,7 @@ it became important to me as a developer whom I was always seated.
 
 :zap: Program 1
 ------
-| :runner: (Move) | :checkered_flag: (Set) |:alarm_clock: (Time) | :movie_camera: (Video)
+| :runner: (Workout) | :checkered_flag: (Set) |:alarm_clock: (Time) | :movie_camera: (Video)
 | --- | --- | --- | --- |
 | Butterfly | 4 | 20 | [![Butterfly](https://img.youtube.com/vi/EZMlF-6Teow/0.jpg)](https://www.youtube.com/watch?v=EZMlF-6Teow)
 | Shadow Boxing | 4 | 15 | [![Shadow Boxing](https://img.youtube.com/vi/br8VDXWr0_8/0.jpg)](https://www.youtube.com/watch?v=br8VDXWr0_8)
@@ -21,7 +21,7 @@ ___
 
 :zap: Program 2
 ------
-| :runner: (Move) | :checkered_flag: (Set) |:alarm_clock: (Time) | :movie_camera: (Video)
+| :runner: (Workout) | :checkered_flag: (Set) |:alarm_clock: (Time) | :movie_camera: (Video)
 | --- | --- | --- | --- |
 | Squat | 3 | 15 | [![Squat](https://img.youtube.com/vi/aclHkVaku9U/0.jpg)](https://www.youtube.com/watch?v=aclHkVaku9U)
 | Lunge | 4 | 15 | [![Lunge](https://img.youtube.com/vi/QOVaHwm-Q6U/0.jpg)](https://www.youtube.com/watch?v=QOVaHwm-Q6U)
