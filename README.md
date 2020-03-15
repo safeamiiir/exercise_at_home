@@ -11,7 +11,7 @@ it became important to me as a developer whom I was always seated.
 | Push Up | 3 | 10 | [![Burpee](https://img.youtube.com/vi/IODxDxX7oi4/0.jpg)](https://www.youtube.com/watch?v=IODxDxX7oi4)
 | Burpee | 4 | 8 | [![Burpee](https://img.youtube.com/vi/dZgVxmf6jkA/0.jpg)](https://www.youtube.com/watch?v=dZgVxmf6jkA)
 | Half Burpee | 3 | 10 | [![Half Burpee](https://img.youtube.com/vi/om09kGWJm8w/0.jpg)](https://www.youtube.com/watch?v=om09kGWJm8w)
-| Push Up planl | 4 | 10 | [![Plank Push Up](https://img.youtube.com/vi/2kEnT-CdXyE/0.jpg)](https://www.youtube.com/watch?v=2kEnT-CdXyE)
+| Push Up plank | 4 | 10 | [![Plank Push Up](https://img.youtube.com/vi/2kEnT-CdXyE/0.jpg)](https://www.youtube.com/watch?v=2kEnT-CdXyE)
 | Pike Push Up | 3 | 10 | [![Pike Push Up](https://img.youtube.com/vi/VnQU_lLBFW0/0.jpg)](https://www.youtube.com/watch?v=VnQU_lLBFW0)
 | Spiderman Mountain Climber | 3 | 12 | [![Spiderman Mountain Climber](https://img.youtube.com/vi/_K7rv_vFOWM/0.jpg)](https://www.youtube.com/watch?v=_K7rv_vFOWM)
 | Planck Crunch | 3 | 30 | [![Planck Crunch](https://img.youtube.com/vi/XyuWESsqXzg/0.jpg)](https://www.youtube.com/watch?v=XyuWESsqXzg)
